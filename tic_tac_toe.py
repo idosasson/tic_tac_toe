@@ -1,5 +1,5 @@
 from random import randint
-
+# this is a comment
 
 def print_board(board):
     print()

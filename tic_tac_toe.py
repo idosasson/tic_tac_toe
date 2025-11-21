@@ -1,7 +1,9 @@
 from random import randint
-
+# this is a comment
 
 def print_board(board):
+    # other comment
+    # test comment
     print()
     for i in range(len(board)):
         for j in range(len(board[i])):
